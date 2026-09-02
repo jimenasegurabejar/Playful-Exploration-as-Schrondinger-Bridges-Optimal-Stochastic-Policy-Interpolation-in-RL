@@ -1,2 +1,2 @@
-# Playful-Exploration-as-Schrondinger-Bridges-Optimal-Stochastic-Policy-Interpolation-in-RL
+# Playful Exploration as Schrondinger Bridges Optimal Stochastic Policy Interpolation in RL
 Notes
